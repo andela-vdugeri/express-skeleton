@@ -1,0 +1,26 @@
+{
+  "name": "express-quickstart",
+  "description": "simple quickstart express application",
+  "main": "server.js",
+  "authors": [
+    "Verem Dugeri <verem.dugeri@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "quickstart",
+    "express",
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
